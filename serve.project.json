@@ -1,0 +1,12 @@
+{
+	"name": "outerfaith/format-number",
+	"tree": {
+		"$className": "DataModel",
+        "ReplicatedFirst": {
+            "$className": "ReplicatedFirst",
+            "formatNumber": {
+                "$path": "src"
+            }
+        }
+	}
+}
